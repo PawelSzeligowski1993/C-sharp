@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Szesnasty\Szesnasty\bin\Debug\Szesnasty.exe.config
+C:\Users\pawel\source\repos\Szesnasty\Szesnasty\bin\Debug\Szesnasty.exe
+C:\Users\pawel\source\repos\Szesnasty\Szesnasty\bin\Debug\Szesnasty.pdb
+C:\Users\pawel\source\repos\Szesnasty\Szesnasty\obj\Debug\Szesnasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Szesnasty\Szesnasty\obj\Debug\Szesnasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Szesnasty\Szesnasty\obj\Debug\Szesnasty.exe
+C:\Users\pawel\source\repos\Szesnasty\Szesnasty\obj\Debug\Szesnasty.pdb

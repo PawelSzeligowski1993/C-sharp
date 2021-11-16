@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Jedynasty\Jedynasty\bin\Debug\Jedynasty.exe.config
+C:\Users\pawel\source\repos\Jedynasty\Jedynasty\bin\Debug\Jedynasty.exe
+C:\Users\pawel\source\repos\Jedynasty\Jedynasty\bin\Debug\Jedynasty.pdb
+C:\Users\pawel\source\repos\Jedynasty\Jedynasty\obj\Debug\Jedynasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Jedynasty\Jedynasty\obj\Debug\Jedynasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Jedynasty\Jedynasty\obj\Debug\Jedynasty.exe
+C:\Users\pawel\source\repos\Jedynasty\Jedynasty\obj\Debug\Jedynasty.pdb

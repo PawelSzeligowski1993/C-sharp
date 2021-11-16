@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Osiemnasty\Osiemnasty\bin\Debug\Osiemnasty.exe.config
+C:\Users\pawel\source\repos\Osiemnasty\Osiemnasty\bin\Debug\Osiemnasty.exe
+C:\Users\pawel\source\repos\Osiemnasty\Osiemnasty\bin\Debug\Osiemnasty.pdb
+C:\Users\pawel\source\repos\Osiemnasty\Osiemnasty\obj\Debug\Osiemnasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Osiemnasty\Osiemnasty\obj\Debug\Osiemnasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Osiemnasty\Osiemnasty\obj\Debug\Osiemnasty.exe
+C:\Users\pawel\source\repos\Osiemnasty\Osiemnasty\obj\Debug\Osiemnasty.pdb

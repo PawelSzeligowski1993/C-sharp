@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Pierwszy\Pierwszy\bin\Debug\Pierwszy.exe.config
+C:\Users\pawel\source\repos\Pierwszy\Pierwszy\bin\Debug\Pierwszy.exe
+C:\Users\pawel\source\repos\Pierwszy\Pierwszy\bin\Debug\Pierwszy.pdb
+C:\Users\pawel\source\repos\Pierwszy\Pierwszy\obj\Debug\Pierwszy.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Pierwszy\Pierwszy\obj\Debug\Pierwszy.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Pierwszy\Pierwszy\obj\Debug\Pierwszy.exe
+C:\Users\pawel\source\repos\Pierwszy\Pierwszy\obj\Debug\Pierwszy.pdb

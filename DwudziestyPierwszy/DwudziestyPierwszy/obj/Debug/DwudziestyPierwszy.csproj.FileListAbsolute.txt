@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\DwudziestyPierwszy\DwudziestyPierwszy\bin\Debug\DwudziestyPierwszy.exe.config
+C:\Users\pawel\source\repos\DwudziestyPierwszy\DwudziestyPierwszy\bin\Debug\DwudziestyPierwszy.exe
+C:\Users\pawel\source\repos\DwudziestyPierwszy\DwudziestyPierwszy\bin\Debug\DwudziestyPierwszy.pdb
+C:\Users\pawel\source\repos\DwudziestyPierwszy\DwudziestyPierwszy\obj\Debug\DwudziestyPierwszy.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\DwudziestyPierwszy\DwudziestyPierwszy\obj\Debug\DwudziestyPierwszy.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\DwudziestyPierwszy\DwudziestyPierwszy\obj\Debug\DwudziestyPierwszy.exe
+C:\Users\pawel\source\repos\DwudziestyPierwszy\DwudziestyPierwszy\obj\Debug\DwudziestyPierwszy.pdb

@@ -1,0 +1,13 @@
+C:\Users\RWSwiss\source\repos\Project2\Project2\bin\Debug\netcoreapp3.1\Project2.exe
+C:\Users\RWSwiss\source\repos\Project2\Project2\bin\Debug\netcoreapp3.1\Project2.deps.json
+C:\Users\RWSwiss\source\repos\Project2\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.json
+C:\Users\RWSwiss\source\repos\Project2\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.dev.json
+C:\Users\RWSwiss\source\repos\Project2\Project2\bin\Debug\netcoreapp3.1\Project2.dll
+C:\Users\RWSwiss\source\repos\Project2\Project2\bin\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\RWSwiss\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.csprojAssemblyReference.cache
+C:\Users\RWSwiss\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+C:\Users\RWSwiss\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+C:\Users\RWSwiss\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache
+C:\Users\RWSwiss\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.dll
+C:\Users\RWSwiss\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\RWSwiss\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache

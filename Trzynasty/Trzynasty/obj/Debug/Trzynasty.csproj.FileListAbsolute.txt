@@ -1,0 +1,6 @@
+C:\Users\pawel\source\repos\Trzynasty\Trzynasty\bin\Debug\Trzynasty.exe.config
+C:\Users\pawel\source\repos\Trzynasty\Trzynasty\bin\Debug\Trzynasty.exe
+C:\Users\pawel\source\repos\Trzynasty\Trzynasty\bin\Debug\Trzynasty.pdb
+C:\Users\pawel\source\repos\Trzynasty\Trzynasty\obj\Debug\Trzynasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Trzynasty\Trzynasty\obj\Debug\Trzynasty.exe
+C:\Users\pawel\source\repos\Trzynasty\Trzynasty\obj\Debug\Trzynasty.pdb

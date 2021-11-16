@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Piaty\Piaty\bin\Debug\Piaty.exe.config
+C:\Users\pawel\source\repos\Piaty\Piaty\bin\Debug\Piaty.exe
+C:\Users\pawel\source\repos\Piaty\Piaty\bin\Debug\Piaty.pdb
+C:\Users\pawel\source\repos\Piaty\Piaty\obj\Debug\Piaty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Piaty\Piaty\obj\Debug\Piaty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Piaty\Piaty\obj\Debug\Piaty.exe
+C:\Users\pawel\source\repos\Piaty\Piaty\obj\Debug\Piaty.pdb

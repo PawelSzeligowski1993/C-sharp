@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Dwunasty\Dwunasty\bin\Debug\Dwunasty.exe.config
+C:\Users\pawel\source\repos\Dwunasty\Dwunasty\bin\Debug\Dwunasty.exe
+C:\Users\pawel\source\repos\Dwunasty\Dwunasty\bin\Debug\Dwunasty.pdb
+C:\Users\pawel\source\repos\Dwunasty\Dwunasty\obj\Debug\Dwunasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Dwunasty\Dwunasty\obj\Debug\Dwunasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Dwunasty\Dwunasty\obj\Debug\Dwunasty.exe
+C:\Users\pawel\source\repos\Dwunasty\Dwunasty\obj\Debug\Dwunasty.pdb

@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Siedemnasty\Siedemnasty\bin\Debug\Siedemnasty.exe.config
+C:\Users\pawel\source\repos\Siedemnasty\Siedemnasty\bin\Debug\Siedemnasty.exe
+C:\Users\pawel\source\repos\Siedemnasty\Siedemnasty\bin\Debug\Siedemnasty.pdb
+C:\Users\pawel\source\repos\Siedemnasty\Siedemnasty\obj\Debug\Siedemnasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Siedemnasty\Siedemnasty\obj\Debug\Siedemnasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Siedemnasty\Siedemnasty\obj\Debug\Siedemnasty.exe
+C:\Users\pawel\source\repos\Siedemnasty\Siedemnasty\obj\Debug\Siedemnasty.pdb

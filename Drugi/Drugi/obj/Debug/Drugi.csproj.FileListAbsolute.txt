@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Drugi\Drugi\bin\Debug\Drugi.exe.config
+C:\Users\pawel\source\repos\Drugi\Drugi\bin\Debug\Drugi.exe
+C:\Users\pawel\source\repos\Drugi\Drugi\bin\Debug\Drugi.pdb
+C:\Users\pawel\source\repos\Drugi\Drugi\obj\Debug\Drugi.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Drugi\Drugi\obj\Debug\Drugi.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Drugi\Drugi\obj\Debug\Drugi.exe
+C:\Users\pawel\source\repos\Drugi\Drugi\obj\Debug\Drugi.pdb

@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Project_Sort_List\Project_Sort_List\bin\Debug\Project_Sort_List.exe.config
+C:\Users\pawel\source\repos\Project_Sort_List\Project_Sort_List\bin\Debug\Project_Sort_List.exe
+C:\Users\pawel\source\repos\Project_Sort_List\Project_Sort_List\bin\Debug\Project_Sort_List.pdb
+C:\Users\pawel\source\repos\Project_Sort_List\Project_Sort_List\obj\Debug\Project_Sort_List.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Project_Sort_List\Project_Sort_List\obj\Debug\Project_Sort_List.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Project_Sort_List\Project_Sort_List\obj\Debug\Project_Sort_List.exe
+C:\Users\pawel\source\repos\Project_Sort_List\Project_Sort_List\obj\Debug\Project_Sort_List.pdb

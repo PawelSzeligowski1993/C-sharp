@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Dziesiec\Dziesiec\bin\Debug\Dziesiec.exe.config
+C:\Users\pawel\source\repos\Dziesiec\Dziesiec\bin\Debug\Dziesiec.exe
+C:\Users\pawel\source\repos\Dziesiec\Dziesiec\bin\Debug\Dziesiec.pdb
+C:\Users\pawel\source\repos\Dziesiec\Dziesiec\obj\Debug\Dziesiec.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Dziesiec\Dziesiec\obj\Debug\Dziesiec.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Dziesiec\Dziesiec\obj\Debug\Dziesiec.exe
+C:\Users\pawel\source\repos\Dziesiec\Dziesiec\obj\Debug\Dziesiec.pdb

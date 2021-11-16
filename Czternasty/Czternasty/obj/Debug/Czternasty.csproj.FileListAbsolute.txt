@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Czternasty\Czternasty\bin\Debug\Czternasty.exe.config
+C:\Users\pawel\source\repos\Czternasty\Czternasty\bin\Debug\Czternasty.exe
+C:\Users\pawel\source\repos\Czternasty\Czternasty\bin\Debug\Czternasty.pdb
+C:\Users\pawel\source\repos\Czternasty\Czternasty\obj\Debug\Czternasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Czternasty\Czternasty\obj\Debug\Czternasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Czternasty\Czternasty\obj\Debug\Czternasty.exe
+C:\Users\pawel\source\repos\Czternasty\Czternasty\obj\Debug\Czternasty.pdb

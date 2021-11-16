@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\PR2_Generics\PR2_Generics\bin\Debug\PR2_Generics.exe.config
+C:\Users\pawel\source\repos\PR2_Generics\PR2_Generics\bin\Debug\PR2_Generics.exe
+C:\Users\pawel\source\repos\PR2_Generics\PR2_Generics\bin\Debug\PR2_Generics.pdb
+C:\Users\pawel\source\repos\PR2_Generics\PR2_Generics\obj\Debug\PR2_Generics.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\PR2_Generics\PR2_Generics\obj\Debug\PR2_Generics.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\PR2_Generics\PR2_Generics\obj\Debug\PR2_Generics.exe
+C:\Users\pawel\source\repos\PR2_Generics\PR2_Generics\obj\Debug\PR2_Generics.pdb

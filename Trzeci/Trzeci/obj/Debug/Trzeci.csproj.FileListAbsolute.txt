@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Trzeci\Trzeci\bin\Debug\Trzeci.exe.config
+C:\Users\pawel\source\repos\Trzeci\Trzeci\bin\Debug\Trzeci.exe
+C:\Users\pawel\source\repos\Trzeci\Trzeci\bin\Debug\Trzeci.pdb
+C:\Users\pawel\source\repos\Trzeci\Trzeci\obj\Debug\Trzeci.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Trzeci\Trzeci\obj\Debug\Trzeci.exe
+C:\Users\pawel\source\repos\Trzeci\Trzeci\obj\Debug\Trzeci.pdb
+C:\Users\pawel\source\repos\Trzeci\Trzeci\obj\Debug\Trzeci.csprojAssemblyReference.cache

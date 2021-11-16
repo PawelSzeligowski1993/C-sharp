@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\DwudziewstyTrzeci\DwudziewstyTrzeci\bin\Debug\DwudziewstyTrzeci.exe.config
+C:\Users\pawel\source\repos\DwudziewstyTrzeci\DwudziewstyTrzeci\bin\Debug\DwudziewstyTrzeci.exe
+C:\Users\pawel\source\repos\DwudziewstyTrzeci\DwudziewstyTrzeci\bin\Debug\DwudziewstyTrzeci.pdb
+C:\Users\pawel\source\repos\DwudziewstyTrzeci\DwudziewstyTrzeci\obj\Debug\DwudziewstyTrzeci.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\DwudziewstyTrzeci\DwudziewstyTrzeci\obj\Debug\DwudziewstyTrzeci.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\DwudziewstyTrzeci\DwudziewstyTrzeci\obj\Debug\DwudziewstyTrzeci.exe
+C:\Users\pawel\source\repos\DwudziewstyTrzeci\DwudziewstyTrzeci\obj\Debug\DwudziewstyTrzeci.pdb

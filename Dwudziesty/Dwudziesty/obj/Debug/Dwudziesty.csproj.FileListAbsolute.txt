@@ -1,0 +1,6 @@
+C:\Users\pawel\source\repos\Dwudziesty\Dwudziesty\bin\Debug\Dwudziesty.exe.config
+C:\Users\pawel\source\repos\Dwudziesty\Dwudziesty\bin\Debug\Dwudziesty.exe
+C:\Users\pawel\source\repos\Dwudziesty\Dwudziesty\bin\Debug\Dwudziesty.pdb
+C:\Users\pawel\source\repos\Dwudziesty\Dwudziesty\obj\Debug\Dwudziesty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Dwudziesty\Dwudziesty\obj\Debug\Dwudziesty.exe
+C:\Users\pawel\source\repos\Dwudziesty\Dwudziesty\obj\Debug\Dwudziesty.pdb

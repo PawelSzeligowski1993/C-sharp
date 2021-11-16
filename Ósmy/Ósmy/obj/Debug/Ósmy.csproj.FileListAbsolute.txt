@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Ósmy\Ósmy\obj\Debug\Ósmy.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Ósmy\Ósmy\bin\Debug\Ósmy.exe.config
+C:\Users\pawel\source\repos\Ósmy\Ósmy\bin\Debug\Ósmy.exe
+C:\Users\pawel\source\repos\Ósmy\Ósmy\bin\Debug\Ósmy.pdb
+C:\Users\pawel\source\repos\Ósmy\Ósmy\obj\Debug\Ósmy.exe
+C:\Users\pawel\source\repos\Ósmy\Ósmy\obj\Debug\Ósmy.pdb
+C:\Users\pawel\source\repos\Ósmy\Ósmy\obj\Debug\Ósmy.csprojAssemblyReference.cache

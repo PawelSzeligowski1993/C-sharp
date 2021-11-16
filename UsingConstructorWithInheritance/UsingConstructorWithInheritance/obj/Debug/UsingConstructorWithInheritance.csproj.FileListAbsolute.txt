@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\UsingConstructorWithInheritance\UsingConstructorWithInheritance\bin\Debug\UsingConstructorWithInheritance.exe.config
+C:\Users\pawel\source\repos\UsingConstructorWithInheritance\UsingConstructorWithInheritance\bin\Debug\UsingConstructorWithInheritance.exe
+C:\Users\pawel\source\repos\UsingConstructorWithInheritance\UsingConstructorWithInheritance\bin\Debug\UsingConstructorWithInheritance.pdb
+C:\Users\pawel\source\repos\UsingConstructorWithInheritance\UsingConstructorWithInheritance\obj\Debug\UsingConstructorWithInheritance.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\UsingConstructorWithInheritance\UsingConstructorWithInheritance\obj\Debug\UsingConstructorWithInheritance.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\UsingConstructorWithInheritance\UsingConstructorWithInheritance\obj\Debug\UsingConstructorWithInheritance.exe
+C:\Users\pawel\source\repos\UsingConstructorWithInheritance\UsingConstructorWithInheritance\obj\Debug\UsingConstructorWithInheritance.pdb

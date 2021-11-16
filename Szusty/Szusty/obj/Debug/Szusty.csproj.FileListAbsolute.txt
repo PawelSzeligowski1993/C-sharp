@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Szusty\Szusty\bin\Debug\Szusty.exe.config
+C:\Users\pawel\source\repos\Szusty\Szusty\bin\Debug\Szusty.exe
+C:\Users\pawel\source\repos\Szusty\Szusty\bin\Debug\Szusty.pdb
+C:\Users\pawel\source\repos\Szusty\Szusty\obj\Debug\Szusty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Szusty\Szusty\obj\Debug\Szusty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Szusty\Szusty\obj\Debug\Szusty.exe
+C:\Users\pawel\source\repos\Szusty\Szusty\obj\Debug\Szusty.pdb

@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Czwarty\Czwarty\bin\Debug\Czwarty.exe.config
+C:\Users\pawel\source\repos\Czwarty\Czwarty\bin\Debug\Czwarty.exe
+C:\Users\pawel\source\repos\Czwarty\Czwarty\bin\Debug\Czwarty.pdb
+C:\Users\pawel\source\repos\Czwarty\Czwarty\obj\Debug\Czwarty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Czwarty\Czwarty\obj\Debug\Czwarty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Czwarty\Czwarty\obj\Debug\Czwarty.exe
+C:\Users\pawel\source\repos\Czwarty\Czwarty\obj\Debug\Czwarty.pdb

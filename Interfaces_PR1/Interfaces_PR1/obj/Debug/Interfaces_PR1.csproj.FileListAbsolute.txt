@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Interfaces_PR1\Interfaces_PR1\bin\Debug\Interfaces_PR1.exe.config
+C:\Users\pawel\source\repos\Interfaces_PR1\Interfaces_PR1\bin\Debug\Interfaces_PR1.exe
+C:\Users\pawel\source\repos\Interfaces_PR1\Interfaces_PR1\bin\Debug\Interfaces_PR1.pdb
+C:\Users\pawel\source\repos\Interfaces_PR1\Interfaces_PR1\obj\Debug\Interfaces_PR1.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Interfaces_PR1\Interfaces_PR1\obj\Debug\Interfaces_PR1.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Interfaces_PR1\Interfaces_PR1\obj\Debug\Interfaces_PR1.exe
+C:\Users\pawel\source\repos\Interfaces_PR1\Interfaces_PR1\obj\Debug\Interfaces_PR1.pdb

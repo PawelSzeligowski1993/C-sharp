@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Siódmy\Siódmy\bin\Debug\Siódmy.exe.config
+C:\Users\pawel\source\repos\Siódmy\Siódmy\bin\Debug\Siódmy.exe
+C:\Users\pawel\source\repos\Siódmy\Siódmy\bin\Debug\Siódmy.pdb
+C:\Users\pawel\source\repos\Siódmy\Siódmy\obj\Debug\Siódmy.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Siódmy\Siódmy\obj\Debug\Siódmy.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Siódmy\Siódmy\obj\Debug\Siódmy.exe
+C:\Users\pawel\source\repos\Siódmy\Siódmy\obj\Debug\Siódmy.pdb

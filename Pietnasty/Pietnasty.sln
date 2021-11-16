@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pietnasty", "Pietnasty\Pietnasty.csproj", "{B24DA632-5155-4819-A862-1F64AC6E0827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24DA632-5155-4819-A862-1F64AC6E0827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24DA632-5155-4819-A862-1F64AC6E0827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24DA632-5155-4819-A862-1F64AC6E0827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24DA632-5155-4819-A862-1F64AC6E0827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3A5DC8-5A92-4D5E-8834-38D59CA236A5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\pawel\source\repos\Interfaces_PR1\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Interfaces_PR1\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache

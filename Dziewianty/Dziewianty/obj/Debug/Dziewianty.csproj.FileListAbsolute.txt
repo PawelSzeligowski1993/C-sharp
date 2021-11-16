@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Dziewianty\Dziewianty\bin\Debug\Dziewianty.exe.config
+C:\Users\pawel\source\repos\Dziewianty\Dziewianty\bin\Debug\Dziewianty.exe
+C:\Users\pawel\source\repos\Dziewianty\Dziewianty\bin\Debug\Dziewianty.pdb
+C:\Users\pawel\source\repos\Dziewianty\Dziewianty\obj\Debug\Dziewianty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Dziewianty\Dziewianty\obj\Debug\Dziewianty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Dziewianty\Dziewianty\obj\Debug\Dziewianty.exe
+C:\Users\pawel\source\repos\Dziewianty\Dziewianty\obj\Debug\Dziewianty.pdb

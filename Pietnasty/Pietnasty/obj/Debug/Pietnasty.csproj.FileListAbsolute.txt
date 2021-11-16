@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Pietnasty\Pietnasty\bin\Debug\Pietnasty.exe.config
+C:\Users\pawel\source\repos\Pietnasty\Pietnasty\bin\Debug\Pietnasty.exe
+C:\Users\pawel\source\repos\Pietnasty\Pietnasty\bin\Debug\Pietnasty.pdb
+C:\Users\pawel\source\repos\Pietnasty\Pietnasty\obj\Debug\Pietnasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Pietnasty\Pietnasty\obj\Debug\Pietnasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Pietnasty\Pietnasty\obj\Debug\Pietnasty.exe
+C:\Users\pawel\source\repos\Pietnasty\Pietnasty\obj\Debug\Pietnasty.pdb

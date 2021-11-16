@@ -1,0 +1,7 @@
+C:\Users\pawel\source\repos\Dzięwietnasty\Dzięwietnasty\bin\Debug\Dzięwietnasty.exe.config
+C:\Users\pawel\source\repos\Dzięwietnasty\Dzięwietnasty\bin\Debug\Dzięwietnasty.exe
+C:\Users\pawel\source\repos\Dzięwietnasty\Dzięwietnasty\bin\Debug\Dzięwietnasty.pdb
+C:\Users\pawel\source\repos\Dzięwietnasty\Dzięwietnasty\obj\Debug\Dzięwietnasty.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\Dzięwietnasty\Dzięwietnasty\obj\Debug\Dzięwietnasty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Dzięwietnasty\Dzięwietnasty\obj\Debug\Dzięwietnasty.exe
+C:\Users\pawel\source\repos\Dzięwietnasty\Dzięwietnasty\obj\Debug\Dzięwietnasty.pdb
